@@ -8,3 +8,6 @@ est_celibataire=True # variable de type booléen
 # On appelle print
 print('L\'employé "',nom,"\" a comme salaire ",salaire,
       " et comme age ",age," celibataire: ",est_celibataire, sep="")
+
+
+
